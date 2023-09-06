@@ -1,0 +1,30 @@
+body {
+    background-color: grey;
+
+}
+
+.nav {
+    display: flex;
+    list-style-type: none;
+    
+    padding: 1em;
+    margin: 1em;
+}
+
+a {
+    background-color: grey;
+    color: white;
+    text-decoration: none;
+
+    padding: 1em;
+    margin: 1em;
+}
+
+a:hover {
+    background-color: rgba(100, 100, 100, 0.75);
+}
+
+p {
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
